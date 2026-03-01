@@ -52,7 +52,7 @@ project/
 ```
 
 ## 📬 Contact
-For any questions or concerns, please contact us at [divisasisai@gmail.com](divisasisai@gmail.com).
+For any questions or concerns, please contact us at [divisasisai@gmail.com](mailto:divisasisai@gmail.com).
 
 ## 💖 Thanks Message
-This project is made possible by the contributions of our B1 Batch numbers.
+This project is made by the contributions of our B1 Batch numbers.
